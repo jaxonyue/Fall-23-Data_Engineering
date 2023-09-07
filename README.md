@@ -14,3 +14,4 @@ Key elements in the repository are:
 Steps needed to run:
 1. Create a virtualenv: 'virtualenv ~/.venv'
 2. Edit my '~.bashrc'
+3. Run 'make all'
