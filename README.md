@@ -19,4 +19,4 @@ This repository includes the components for Mini-Project 1 - creating a Python G
 
 ### Results
 Using Github Actions, I have passed make format, make lint, and make test as shown below.
-<img width="900" alt="Screenshot 2023-09-09 at 11 45 49 AM" src="https://github.com/jaxonyue/Fall-23-Data_Engineering/assets/70416390/3b9d65b0-e877-4a5d-8a8c-6bb8b80a0d03">
+<img width="894" alt="Screenshot 2023-09-09 at 11 48 09 AM" src="https://github.com/jaxonyue/Fall-23-Data_Engineering/assets/70416390/e41d868a-3cec-4e05-a45d-65c83438d1fd">
